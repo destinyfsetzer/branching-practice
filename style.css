@@ -3,3 +3,8 @@
     color: white;
     border-radius: 50%;
 }
+.not-secret {
+    background-color: aqua;
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
