@@ -3,3 +3,10 @@
     color: white;
     border-radius: 50%;
 }
+
+.poop {
+    background-color: chocolate;
+    color: black;
+    border-radius: 75%;
+    border-bottom: black 2px solid;
+}
